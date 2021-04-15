@@ -91,7 +91,7 @@
     ],
     "skills": [
       {
-        "name": "Javascript",
+        "name": "Javascript (EcmaScript)",
         "level": "80%"
       },
       {
@@ -108,7 +108,7 @@
       },
       {
         "name": "Unit / Integration Testing",
-        "level": "80%"
+        "level": "40%"
       },
       {
         "name": "NodeJs / ExpressJs / Loopback",
@@ -120,6 +120,10 @@
       },
       {
         "name": "AWS",
+        "level": "50%"
+      },
+      {
+        "name": "Docker",
         "level": "50%"
       }
     ]
