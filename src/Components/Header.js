@@ -54,7 +54,7 @@ class Header extends Component {
       "cobweb",
       "polygon",
       "square",
-      "tadpole",
+      // "tadpole",
       "fountain",
       // "random",
       // "custom",
